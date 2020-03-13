@@ -1,0 +1,27 @@
+.header {
+    background-color: rgb(47, 54, 141);
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+h1 {
+    color: white;
+    font-size: 35px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+table {
+    padding-top: 10px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.intro {
+    width: 500px;
+}

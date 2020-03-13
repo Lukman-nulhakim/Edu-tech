@@ -1,0 +1,9 @@
+.box {
+    background-image: url(BGkeren.png);
+    height: 250px;
+    width: 120px;
+    margin: 10px;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px rgb(197, 206, 207);
+}
